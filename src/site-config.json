@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Gutter Seattle",
+    "phone": "+12068800408",
+    "category": "gutter installation",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Gutter Experts",
+      "heroSubline": "Protecting homes from relentless rain. Expert installation and lasting solutions.",
+      "aboutTitle": "Reliable Gutter Solutions for Seattle Homes",
+      "aboutText": [
+        "Gutter Seattle started with a simple goal: to provide dependable gutter services to our neighbors. We saw firsthand the damage that Seattle's weather could inflict on homes, and we knew that quality gutters were essential for protection.",
+        "We believe in honest assessments, clear communication, and meticulous workmanship. Our team is dedicated to doing the job right the first time, ensuring your gutters function flawlessly for years to come. We're not just installing gutters; we're building trust.",
+        "We're proud to be a part of the Seattle community. We support local initiatives and strive to minimize our environmental impact. When you choose Gutter Seattle, you're supporting a business that cares about our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precise fitting and secure mounting for optimal performance."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Built to withstand Seattle's wet climate and resist moss growth."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding Seattle's unique housing styles and weather patterns."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "Transparent pricing and responsive customer service."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Inspection",
+      "ctaSubline": "Protect your home from water damage. Schedule your inspection today!"
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Protect your home with expertly installed, durable gutters.",
+        "description": "Proper gutter installation is critical in Seattle to combat the constant rain and prevent water damage. We assess your home's specific needs, considering roof pitch, drainage patterns, and surrounding trees. Our team uses premium materials designed to withstand Seattle's wet climate, including heavy-gauge aluminum and copper options. We ensure precise fitting and secure mounting to prevent leaks and sagging. \n\nOur installation process includes a thorough inspection of your fascia boards and soffits, repairing any damage before installing the new gutters. We offer a variety of gutter styles, including seamless gutters, which minimize leaks and require less maintenance. We also provide downspout extensions and splash blocks to direct water away from your foundation, protecting your home's structural integrity. We handle everything from initial consultation to final cleanup, ensuring a hassle-free experience.\n\nConsider adding gutter guards to your new system to further reduce maintenance and prevent clogs from leaves and debris. We can advise on the best type of gutter guard for your specific needs and budget. With Gutter Seattle, you can be confident that your new gutters will provide reliable protection for years to come.",
+        "process": [
+          "Step 1: Property Assessment & Consultation",
+          "Step 2: Material Selection & Custom Fabrication",
+          "Step 3: Precise Gutter Installation",
+          "Step 4: Downspout & Drainage Optimization"
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation",
+          "Protects siding and landscaping",
+          "Reduces risk of basement flooding",
+          "Extends the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "Most installations are completed in one to two days, depending on the size and complexity of the project. We'll provide a more accurate timeline during the initial consultation."
+          },
+          {
+            "question": "What type of gutters are best for Seattle's climate?",
+            "answer": "Seamless aluminum gutters are a popular choice due to their durability, affordability, and resistance to rust and corrosion. Copper gutters are also an excellent option, offering superior longevity and a classic aesthetic."
+          },
+          {
+            "question": "Do you offer a warranty on your installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all our gutter installations. This covers both materials and workmanship, giving you peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fast, reliable repairs to fix leaks, sagging, and damaged gutters.",
+        "description": "Seattle's relentless rain can take a toll on gutters, leading to leaks, sagging, and other damage. Ignoring these issues can result in costly water damage to your home's foundation, siding, and roof. Our gutter repair services address a wide range of problems, from minor leaks and loose hangers to damaged downspouts and corroded sections. We use quality materials and proven techniques to ensure lasting repairs.\n\nWe start with a thorough inspection to identify the source of the problem. We then provide a detailed estimate outlining the necessary repairs and associated costs. Our team is experienced in repairing all types of gutters, including aluminum, copper, and vinyl. We can replace damaged sections, re-secure loose hangers, and seal leaks to restore your gutters to optimal functionality. \n\nRegular gutter maintenance is essential to prevent future problems. We offer gutter cleaning services to remove leaves, debris, and moss buildup, which can clog gutters and cause water to overflow. We also recommend inspecting your gutters regularly for any signs of damage or wear. With Gutter Seattle, you can keep your gutters in top condition and protect your home from water damage.",
+        "process": [
+          "Step 1: Comprehensive Gutter Inspection",
+          "Step 2: Detailed Repair Estimate",
+          "Step 3: Efficient Repair Work",
+          "Step 4: Quality Assurance Check"
+        ],
+        "benefits": [
+          "Prevents further water damage",
+          "Extends the life of your gutters",
+          "Saves money on costly repairs",
+          "Maintains your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Signs of gutter damage include leaks, sagging, overflowing water, and visible rust or corrosion. You should also check for loose hangers and damaged downspouts."
+          },
+          {
+            "question": "How much does gutter repair cost?",
+            "answer": "The cost of gutter repair depends on the extent of the damage and the type of materials used. We provide free estimates to help you understand the costs involved."
+          },
+          {
+            "question": "Can I repair my gutters myself?",
+            "answer": "While minor repairs may be possible for DIYers, it's generally best to hire a professional for more complex issues. Improper repairs can lead to further damage and costly problems."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Remove debris and prevent clogs with our professional gutter cleaning service.",
+        "description": "Clogged gutters are a common problem in Seattle, where leaves, needles, and moss buildup can quickly obstruct water flow. Neglecting gutter cleaning can lead to overflowing water, which can damage your roof, siding, and foundation. Our professional gutter cleaning service removes all debris from your gutters and downspouts, ensuring proper drainage and preventing costly water damage.\n\nWe use specialized equipment to safely and effectively remove debris from your gutters. Our team is trained to identify and address potential problems, such as loose hangers and damaged sections. We also flush your downspouts to ensure they are clear of obstructions. We bag and remove all debris, leaving your property clean and tidy.\n\nRegular gutter cleaning is essential to maintain the health of your home. We recommend cleaning your gutters at least twice a year, especially in the fall and spring. With Gutter Seattle, you can keep your gutters in top condition and protect your home from the elements.",
+        "process": [
+          "Step 1: Debris Removal from Gutters",
+          "Step 2: Downspout Flushing",
+          "Step 3: System Inspection",
+          "Step 4: Debris Disposal"
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Extends gutter lifespan",
+          "Reduces pest infestation risks",
+          "Avoids costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, typically in the spring and fall. If you have trees near your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "While it's possible to clean your gutters yourself, it can be a dangerous and time-consuming task. Professional gutter cleaning services offer a safer and more efficient solution."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "If you don't clean your gutters, they can become clogged with debris, leading to overflowing water and potential water damage to your home."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guard-installation",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Minimize maintenance and prevent clogs with our gutter guard solutions.",
+        "description": "Tired of constantly cleaning your gutters? Gutter guards offer a simple and effective solution to prevent leaves, debris, and moss from clogging your gutters. We install a variety of gutter guard systems to suit your specific needs and budget. Our team will help you choose the right type of gutter guard for your home and ensure a professional installation.\n\nGutter guards work by creating a barrier that allows water to flow into the gutters while blocking debris. This reduces the need for frequent gutter cleaning and protects your home from water damage. We offer a range of gutter guard options, including mesh screens, reverse curve systems, and foam inserts. Each type of gutter guard has its own advantages and disadvantages, and we can help you determine which one is right for your home.\n\nInvesting in gutter guards can save you time and money in the long run. They reduce the need for gutter cleaning, prevent water damage, and extend the life of your gutters. With Gutter Seattle, you can enjoy the peace of mind that comes with knowing your gutters are protected.",
+        "process": [
+          "Step 1: Gutter Evaluation",
+          "Step 2: Gutter Guard Selection",
+          "Step 3: Professional Installation",
+          "Step 4: Performance Check"
+        ],
+        "benefits": [
+          "Reduces gutter cleaning frequency",
+          "Prevents clogs and water damage",
+          "Extends gutter lifespan",
+          "Saves time and money"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of gutter guards?",
+            "answer": "Gutter guards prevent leaves, debris, and moss from clogging your gutters, reducing the need for frequent cleaning and protecting your home from water damage."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of system and the size of your home. We offer free estimates to help you understand the costs involved."
+          },
+          {
+            "question": "What type of gutter guard is best for my home?",
+            "answer": "The best type of gutter guard for your home depends on the type of debris in your area and your budget. We can help you choose the right gutter guard for your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation-repair",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Ensure proper water drainage with expert downspout services.",
+        "description": "Downspouts are a critical component of your gutter system, directing water away from your foundation and preventing water damage. Damaged or improperly installed downspouts can lead to standing water, soil erosion, and foundation problems. We offer comprehensive downspout installation and repair services to ensure proper drainage and protect your home.\n\nWe install downspouts using durable materials and secure mounting techniques. We also offer downspout extensions and splash blocks to direct water even further away from your foundation. Our team is experienced in repairing all types of downspouts, including aluminum, copper, and vinyl. We can replace damaged sections, re-secure loose connections, and clear clogs to restore your downspouts to optimal functionality.\n\nProper downspout maintenance is essential to prevent future problems. We recommend inspecting your downspouts regularly for any signs of damage or wear. With Gutter Seattle, you can keep your downspouts in top condition and protect your home from water damage.",
+        "process": [
+          "Step 1: Site Assessment",
+          "Step 2: Downspout Design & Material Selection",
+          "Step 3: Precise Installation or Repair",
+          "Step 4: Drainage Optimization"
+        ],
+        "benefits": [
+          "Prevents foundation damage",
+          "Reduces soil erosion",
+          "Eliminates standing water",
+          "Protects landscaping"
+        ],
+        "faq": [
+          {
+            "question": "Why are downspouts important?",
+            "answer": "Downspouts direct water away from your foundation, preventing water damage and soil erosion."
+          },
+          {
+            "question": "How do I know if my downspouts need repair?",
+            "answer": "Signs of downspout damage include leaks, loose connections, and standing water near your foundation."
+          },
+          {
+            "question": "How far should downspouts extend from my foundation?",
+            "answer": "Downspouts should extend at least 4 feet away from your foundation to ensure proper drainage."
+          }
+        ]
+      },
+      {
+        "slug": "fascia-soffit-repair",
+        "name": "Fascia & Soffit Repair",
+        "shortDescription": "Protect your roof and home with expert fascia and soffit repair services.",
+        "description": "Fascia and soffits are essential components of your roofing system, protecting your roof and attic from water damage and pests. Damaged or deteriorated fascia and soffits can compromise the structural integrity of your home and lead to costly repairs. We offer comprehensive fascia and soffit repair services to ensure your roof is properly protected.\n\nWe inspect your fascia and soffits for signs of damage, such as rot, cracks, and peeling paint. We then provide a detailed estimate outlining the necessary repairs and associated costs. Our team is experienced in repairing all types of fascia and soffits, including wood, vinyl, and aluminum. We use quality materials and proven techniques to ensure lasting repairs.\n\nProper fascia and soffit maintenance is essential to prevent future problems. We recommend inspecting your fascia and soffits regularly for any signs of damage or wear. With Gutter Seattle, you can keep your fascia and soffits in top condition and protect your home from the elements.",
+        "process": [
+          "Step 1: Thorough Inspection",
+          "Step 2: Material Selection",
+          "Step 3: Expert Repair",
+          "Step 4: Protection and Sealing"
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Protects against pests",
+          "Extends roof lifespan",
+          "Improves energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What are fascia and soffits?",
+            "answer": "Fascia is the board that runs along the edge of your roof, while soffits are the panels that cover the underside of your eaves."
+          },
+          {
+            "question": "Why are fascia and soffits important?",
+            "answer": "Fascia and soffits protect your roof and attic from water damage and pests."
+          },
+          {
+            "question": "How do I know if my fascia and soffits need repair?",
+            "answer": "Signs of fascia and soffit damage include rot, cracks, peeling paint, and pest infestation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "Gutter Seattle is proud to offer our expert gutter installation and repair services to the residents of Bellevue, Washington. Known for its upscale homes built primarily in the 1980s through the 2000s, Bellevue requires reliable gutter systems to protect its properties from the region's frequent rainfall. We understand the specific needs of Bellevue homeowners and provide tailored solutions to ensure optimal performance and longevity. \n\nOur team is experienced in working with a variety of gutter materials and styles, ensuring that your new or repaired gutters seamlessly integrate with your home's architecture. Whether you're dealing with leaks, clogs, or simply want to upgrade your existing system, Gutter Seattle is here to provide prompt, professional, and affordable service. We take pride in keeping Bellevue homes dry and protected from the elements.",
+        "localContext": "Bellevue experiences mild, wet winters with persistent rain, making effective gutter systems essential for protecting homes from water damage.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "Gutter Seattle is committed to providing top-notch gutter services to the community of Redmond, Washington. Home to the Microsoft campus, Redmond boasts a diverse range of housing, and protecting those homes from the elements is our priority. We understand the importance of properly functioning gutters in preventing water damage and maintaining the structural integrity of your property.\n\nOur services include gutter installation, repair, cleaning, and maintenance. We use high-quality materials and employ proven techniques to ensure that your gutters are up to the task of handling the Pacific Northwest's frequent rainfall. Trust Gutter Seattle to keep your Redmond home safe and dry.",
+        "localContext": "Redmond's climate features mild, wet winters with consistent rainfall, making dependable gutter systems crucial for homeowners.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Kirkland",
+          "Sammamish"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "Gutter Seattle is pleased to serve the residents of Kirkland, Washington, with our comprehensive gutter services. With its beautiful waterfront homes along Lake Washington, Kirkland requires gutter systems that can withstand the elements while complementing the aesthetics of these properties. We specialize in providing durable and attractive gutter solutions tailored to the unique needs of Kirkland homeowners.\n\nFrom seamless aluminum gutters to copper gutters for a touch of elegance, we offer a wide range of options to enhance the curb appeal and protect your home from water damage. Our experienced team is dedicated to providing exceptional service and ensuring your complete satisfaction. We understand the importance of maintaining your home’s value, and properly installed and maintained gutters are a crucial part of that.",
+        "localContext": "Kirkland, with its waterfront properties on Lake Washington, requires robust gutter systems to manage the region's mild, wet winters and persistent rain.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "Gutter Seattle extends its expert gutter services to the historic city of Tacoma, Washington. Known for its charming 1900s-20s Craftsman homes, particularly in the Stadium District, Tacoma requires gutter systems that are both functional and aesthetically appropriate. We have extensive experience working with older homes and can provide solutions that seamlessly blend with their original character.\n\nWe offer a range of gutter services, including repair, replacement, and cleaning. Our team is skilled at identifying and addressing the unique challenges that older homes can present. Trust Gutter Seattle to protect your Tacoma home from water damage while preserving its historic charm.",
+        "localContext": "Tacoma's mix of historic homes and a mild, wet winter climate necessitates reliable gutter systems to prevent water damage.",
+        "nearbyAreas": [
+          "Seattle",
+          "Federal Way",
+          "Puyallup"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "Gutter Seattle is dedicated to serving the gutter needs of Bothell, Washington. Characterized by its 1980s-90s suburban developments, Bothell homes require reliable gutter systems to effectively manage the region's frequent rainfall. We offer a range of services to ensure your gutters are functioning optimally, protecting your home from water damage and foundation issues.\n\nOur services include gutter installation, repair, cleaning, and maintenance. We use high-quality materials and employ proven techniques to ensure that your gutters are up to the task of handling the Pacific Northwest's weather. Let Gutter Seattle take care of your gutter needs, so you can focus on enjoying your Bothell home.",
+        "localContext": "Bothell's suburban developments and mild, wet winters make effective gutter systems a necessity for protecting homes from water damage.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Mill Creek",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Seattle",
+        "slug": "seattle-wa",
+        "state": "WA",
+        "content": "Gutter Seattle proudly serves the residents of Seattle, WA, providing top-quality gutter installation, repair, and maintenance services. As a city known for its diverse architecture and frequent rainfall, Seattle homes require robust and reliable gutter systems to protect them from water damage. We understand the unique challenges that Seattle's climate presents and offer tailored solutions to ensure optimal performance and longevity.\n\nFrom the historic homes of Capitol Hill to the modern residences of downtown, we have the expertise to handle any gutter project. Our team is committed to providing exceptional service and ensuring your complete satisfaction. We use only the highest quality materials and employ proven techniques to ensure that your gutters are up to the task of handling Seattle's wet weather.",
+        "localContext": "Seattle's diverse architecture and consistent rainfall necessitate reliable gutter systems to protect homes from water damage.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Tacoma",
+          "Shoreline"
+        ]
+      },
+      {
+        "city": "Shoreline",
+        "slug": "shoreline-wa",
+        "state": "WA",
+        "content": "Gutter Seattle is committed to providing Shoreline, WA residents with exceptional gutter services. As a city nestled along the Puget Sound, Shoreline experiences its fair share of rainfall, making reliable gutter systems essential for protecting homes from water damage. We understand the unique needs of Shoreline homeowners and offer tailored solutions to ensure optimal performance and longevity.\n\nOur services include gutter installation, repair, cleaning, and maintenance. We use high-quality materials and employ proven techniques to ensure that your gutters are up to the task of handling the Pacific Northwest's weather. Trust Gutter Seattle to keep your Shoreline home safe and dry.",
+        "localContext": "Shoreline's location along the Puget Sound and its mild, wet winters make dependable gutter systems crucial for homeowners.",
+        "nearbyAreas": [
+          "Seattle",
+          "Edmonds",
+          "Lake Forest Park"
+        ]
+      },
+      {
+        "city": "Renton",
+        "slug": "renton-wa",
+        "state": "WA",
+        "content": "Gutter Seattle extends its expertise to Renton, WA, offering comprehensive gutter solutions for homes and businesses. Located in the heart of the Puget Sound region, Renton experiences significant rainfall, making effective gutter systems essential for preventing water damage. We understand the specific needs of Renton property owners and provide tailored services to ensure optimal performance and longevity.\n\nOur services include gutter installation, repair, cleaning, and maintenance. We use high-quality materials and employ proven techniques to ensure that your gutters are up to the task of handling the Pacific Northwest's weather. Let Gutter Seattle protect your Renton property with our reliable gutter services.",
+        "localContext": "Renton's location in the Puget Sound region and its mild, wet winters necessitate reliable gutter systems to protect properties from water damage.",
+        "nearbyAreas": [
+          "Seattle",
+          "Kent",
+          "Newcastle"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice B.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Gutter Seattle did a fantastic job cleaning my gutters! They were completely clogged with leaves and moss, and now they're flowing perfectly. The team was professional, efficient, and left my yard spotless. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "I had a leaky gutter that was causing water to run down my siding. Gutter Seattle came out and quickly identified the problem and made the necessary repairs. The price was fair, and the work was done well. Would use again.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 5,
+        "service": "Gutter Guard Installation",
+        "text": "I was tired of cleaning my gutters every few months, so I decided to get gutter guards installed. Gutter Seattle helped me choose the right type of guards for my home and installed them perfectly. No more clogged gutters!",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "We needed new gutters installed on our home, and Gutter Seattle provided excellent service. They were prompt, professional, and the installation was flawless. The new gutters look great and function perfectly. Great value!",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 4,
+        "service": "Downspout Repair",
+        "text": "My downspout was completely detached from the gutter and was causing water to pool around my foundation. Gutter Seattle came out and reattached the downspout securely. They also checked the other downspouts and made sure everything was in good working order.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Fascia & Soffit Repair",
+        "text": "I had some rotting fascia boards that needed to be replaced. Gutter Seattle did a great job replacing the boards and sealing everything up to prevent further damage. They were very professional and did excellent work.",
+        "date": "2025-02-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Gutter Seattle | Expert Gutter Services",
+        "description": "Seattle's trusted gutter installation and repair experts. Protect your home from water damage. Free estimates!"
+      },
+      "about": {
+        "title": "About Gutter Seattle",
+        "description": "Learn about Gutter Seattle's commitment to quality gutter services in Seattle. Local expertise and reliable solutions."
+      },
+      "services": {
+        "title": "Gutter Services | Seattle, WA",
+        "description": "Comprehensive gutter services in Seattle: installation, repair, cleaning, and gutter guards. Protect your home today!"
+      },
+      "contact": {
+        "title": "Contact Gutter Seattle",
+        "description": "Contact Gutter Seattle for free gutter inspections and expert advice. Serving Seattle and surrounding areas."
+      },
+      "reviews": {
+        "title": "Gutter Seattle Reviews",
+        "description": "Read what our satisfied customers are saying about Gutter Seattle's quality gutter services in Seattle."
+      },
+      "service-areas": {
+        "title": "Gutter Service Areas",
+        "description": "Gutter services in Seattle, Bellevue, Redmond, Kirkland, Tacoma, and Bothell. Expert local gutter solutions."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guard-installation": "/images/service-gutter-guard-installation.webp",
+      "downspout-installation-repair": "/images/service-downspout-installation-repair.webp",
+      "fascia-soffit-repair": "/images/service-fascia-soffit-repair.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guard-installation": {
+        "src": "/images/service-gutter-guard-installation.webp",
+        "srcset": "/images/service-gutter-guard-installation-400w.webp 400w, /images/service-gutter-guard-installation-800w.webp 800w, /images/service-gutter-guard-installation-1200w.webp 1200w, /images/service-gutter-guard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation-repair": {
+        "src": "/images/service-downspout-installation-repair.webp",
+        "srcset": "/images/service-downspout-installation-repair-400w.webp 400w, /images/service-downspout-installation-repair-800w.webp 800w, /images/service-downspout-installation-repair-1200w.webp 1200w, /images/service-downspout-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fascia-soffit-repair": {
+        "src": "/images/service-fascia-soffit-repair.webp",
+        "srcset": "/images/service-fascia-soffit-repair-400w.webp 400w, /images/service-fascia-soffit-repair-800w.webp 800w, /images/service-fascia-soffit-repair-1200w.webp 1200w, /images/service-fascia-soffit-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
